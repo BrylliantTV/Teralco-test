@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TeralcoEjercicios:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TeralcoEjercicios_jar</output-path>
+    <root id="archive" name="TeralcoEjercicios.jar">
+      <element id="module-output" name="TeralcoEjercicios" />
+    </root>
+  </artifact>
+</component>
